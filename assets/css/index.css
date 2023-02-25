@@ -161,6 +161,11 @@ main {
 }
 
 /* Footer */
+.portfolio-card {
+    display:flex;
+    flex-wrap: wrap;
+    margin-bottom: 40 px;
+}
 
 .footer-section {
     clear: both;
