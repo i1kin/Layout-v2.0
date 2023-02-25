@@ -178,9 +178,10 @@ main {
 }
 
 /* Portfolio */
-.portfolio-card {
+ .portfolio-card {
     display:flex;
     flex-wrap: wrap;
+    justify-content:space-between;
     margin-bottom: 40px;
 }
 
@@ -196,8 +197,7 @@ main {
 .portfolio-img img {
     width: 100%;
     height: 100%;
-    display: flex;
-    justify-content:space-between;
+    display: block;
     transition: .3s all ease-in-out;
 }
 
