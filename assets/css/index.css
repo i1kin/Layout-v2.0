@@ -183,7 +183,7 @@ main {
     width: 274px;
     height: 206px;
     object-fit: cover;
-    
+    display:flex;
     margin-bottom: 40px;
     position: relative;
     overflow: hidden;
