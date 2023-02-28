@@ -168,6 +168,7 @@ main section {
     height: 90px;
     color: #ccc;
     font-size: 12px;
+    width: 100%;
 }
 
 .footer-section p {
