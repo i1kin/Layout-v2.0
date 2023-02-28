@@ -172,7 +172,7 @@ main section {
 
 .footer-section p {
     line-height: 90px;
-    margin: auto 0;
+    text-align: center;
 }
 
 /* Portfolio */
