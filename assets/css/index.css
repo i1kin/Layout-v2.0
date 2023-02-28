@@ -162,13 +162,12 @@ main section {
 /* Footer */
 
 .footer-section {
-    clear: both;
+    margin-top: 40px;
     background-color: #666;
     border-top: 8px solid #4AAAA5;
     height: 90px;
     color: #ccc;
     font-size: 12px;
-    width: 1335;
 }
 
 .footer-section p {
