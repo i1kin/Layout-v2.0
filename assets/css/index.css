@@ -179,13 +179,13 @@ main {
 
 /* Portfolio */
  .portfolio-card {
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
-    justify-content:space-between;
-    margin-bottom: 40px;
+    justify-content: space-between;
 }
 
 .portfolio-img {
+    margin: auto;
     width: 274px;
     height: 206px;
     object-fit: cover;
@@ -225,8 +225,6 @@ main {
     text-align: center;
     transition: .2s all ease-in-out;
 }
-
-
 /* Contact */
 
 form .form-group label {
