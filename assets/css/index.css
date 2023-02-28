@@ -82,8 +82,7 @@ main {
 }
 
 .card {
-    width: 650px;
-    
+    flex: 65%;
 }
 
 .main-card {
@@ -92,6 +91,7 @@ main {
     box-sizing: border-box;
     border: 1px solid lightgray;
     margin-bottom: 40px;
+    margin: 0 10px;
 }
 
 .head-text {
@@ -116,6 +116,14 @@ main {
     width: 200px;
     height: 150px;
     margin: 10px 25px 0 0;
+}
+
+.card-text {
+    display: block;
+    flex: 70%;
+    font-size: 18px;
+    color: #777;
+    line-height: 2;
 }
 
 /* Social */
