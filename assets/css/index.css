@@ -121,6 +121,8 @@ main section {
 .card-body .card-img {
     width: 200px;
     height: 150px;
+    display: block;
+    float: left;
     margin: 10px 25px 0 0;
 }
 
