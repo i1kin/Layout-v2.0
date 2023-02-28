@@ -145,6 +145,7 @@ main section {
 
 .links {
     display: flex;
+    align-items: center;
 }
 
 .social .social-item img {
