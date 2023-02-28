@@ -121,8 +121,6 @@ main section {
 .card-body .card-img {
     width: 200px;
     height: 150px;
-    display: block;
-    float: left;
     margin: 10px 25px 0 0;
 }
 
@@ -174,7 +172,7 @@ main section {
 
 .footer-section p {
     line-height: 90px;
-    text-align: center;
+    margin: auto 0;
 }
 
 /* Portfolio */
