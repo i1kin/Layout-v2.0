@@ -107,27 +107,15 @@ main {
     font-size: 30px;
 }
 
+.card-body {
+    display: flex;
+    justify-content: space-between;
+}
+
 .card-body .card-img {
     width: 200px;
     height: 150px;
-    display: block;
     margin: 10px 25px 0 0;
-    float: left;
-    
-}
-/* .card-body{
-  display: flex;
-}
-.card-text{
-    margin: 0;
-   
-} */
-.card-body .card-text {
-    font-size: 18px;
-    color: #777;
-    line-height: 2;
- 
-    
 }
 
 /* Social */
