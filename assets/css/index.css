@@ -81,6 +81,12 @@ main {
     min-height: calc(100vh - 228px);  /* For sticky footer */
 }
 
+main section {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
 .card {
     flex: 65%;
 }
