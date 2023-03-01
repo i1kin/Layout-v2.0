@@ -162,17 +162,18 @@ main section {
 /* Footer */
 
 .footer-section {
-    margin-top: 40px;
+    margin: 0;
     background-color: #666;
-    border-top: 8px solid #4AAAA5;
-    height: 90px;
-    color: #ccc;
+    border-top: 10px solid #4AAAA5;
+    height: 120px;
+    color: #666;
     font-size: 12px;
 }
 
 .footer-section p {
-    line-height: 90px;
     text-align: center;
+    margin: 45px 0 0 0;
+    color: #ccc;
 }
 
 /* Portfolio */
